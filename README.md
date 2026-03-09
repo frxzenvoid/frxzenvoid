@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Asaf! 👋
 
-<!--
-**frxzenvoid/frxzenvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 16-year-old passionate **Game Developer** and **Digital Entrepreneur**. Currently, I'm focusing on creating unique experiences in the gaming world and mastering new programming languages.
 
-Here are some ideas to get you started:
+### 🛠 What I’m working on:
+- 🎮 **Roblox Development:** Managing my own studios and designing 2D clothing & UGC items.
+- 💻 **Software Learning:** Deep diving into **Python** to expand my coding skills.
+- 🎨 **UI/UX Design:** Crafting clean and aesthetic interfaces for games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ My Journey:
+- 🚀 Owner of **Asaf Clothes** & **Asaf Studio**.
+- 🛠 Building projects with **Luau** and now exploring **Python**.
+- 📈 Always looking for ways to improve my marketing and development strategies.
+
+### 📬 Connect with me:
+- 📸 Check out my latest designs on Instagram/TikTok!
+- ✉️ Feel free to reach out for collaborations or just to chat about game dev.
+
+*"Turning imagination into reality, one line of code at a time."*
