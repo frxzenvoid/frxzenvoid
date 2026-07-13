@@ -8,7 +8,7 @@ I'm a 16-year-old passionate **Game Developer** and **Digital Entrepreneur**. Cu
 - 🎨 **UI/UX Design:** Crafting clean and aesthetic interfaces for games.
 
 ### ✨ My Journey:
-- 🚀 Owner of **Asaf Clothes** & **Asaf Studio**.
+- 🚀 Owner of **Asaf Studio**.
 - 🛠 Building projects with **Luau** and **Python**.
 - 📈 Always looking for ways to improve my marketing and development strategies.
 
